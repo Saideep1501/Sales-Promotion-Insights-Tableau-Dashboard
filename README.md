@@ -2,7 +2,7 @@
 
 This project was developed as part of the **Codebasics Resume Project Challenge** to analyze the effectiveness of various festive sales promotions conducted by AtliQ Mart, a retail chain with 50+ stores across South India.
 
-It also marks the beginning of my **Tableau journey** — my very first dashboard built using Tableau.
+It also marks the beginning of my **Tableau journey** - my very first dashboard built using Tableau.
 
 ---
 
